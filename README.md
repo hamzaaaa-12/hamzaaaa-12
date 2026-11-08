@@ -1,136 +1,203 @@
-<!-- ====================================================== -->
-<!--                 HAMZA IBRAHIM | PROFILE                -->
-<!-- ====================================================== -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B2E,100:253B70&height=210&section=header&text=Hamza%20Ibrahim&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%26%20AI%20Student%20%7C%20AI%20%26%20Data%20Engineering&descAlignY=60&descSize=16" width="100%" alt="Hamza Ibrahim profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=190&section=header&text=HAMZA%20IBRAHIM&fontSize=46&fontColor=F4F7FF&fontAlignY=42&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ENGINEERING&descSize=14&descAlignY=68&animation=fadeIn" width="100%" alt="Hamza Ibrahim — AI, Machine Learning and Data Engineering" />
 
-  <a href="https://www.linkedin.com/in/hamzaaibrahiim">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hamzaaaa12007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/hamzaaaa-12/MyPortfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+<br/>
+
+<a href="https://www.linkedin.com/in/hamzaaibrahiim"><img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=flat-square&logo=linkedin&logoColor=8AB4FF" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:hamzaaaa12007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1020?style=flat-square&logo=gmail&logoColor=FF8A8A" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/hamzaaaa-12/MyPortfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=flat-square&logo=googlechrome&logoColor=C4A7FF" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
-## About Me
+## PROFILE
 
-I'm a **Computer Science and Artificial Intelligence student at Helwan University**, interested in building practical solutions through **Artificial Intelligence, Machine Learning, and Data Engineering**.
+I'm a Computer Science and Artificial Intelligence student at **Helwan University**, interested in developing practical systems across **Artificial Intelligence, Machine Learning, and Data Engineering**.
 
-I enjoy working across the data lifecycle — from preparing and transforming data to building machine learning models and turning results into useful applications.
+I like understanding the full journey behind a solution: preparing data, designing a reliable workflow, building and evaluating models, and presenting results in a useful way.
 
-- Studying Computer Science and Artificial Intelligence at **Helwan University**.
-- Building practical projects in **Machine Learning, Deep Learning, and Data Engineering**.
-- Working with Python, SQL, data processing, model development, and visualization.
-- Interested in data platforms and pipelines that support reliable AI systems.
+Currently, I'm deepening my skills in Machine Learning and Deep Learning while continuing to explore data platforms, pipelines, and cloud technologies.
 
-## Tech Stack
+---
 
-### Programming Languages
+## FOCUS AREAS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 / Artificial Intelligence**
+
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Model Evaluation
+
+</td>
+<td width="33%" valign="top">
+
+**02 / Data Engineering**
+
+- Python & SQL
+- ETL Pipelines
+- Data Cleaning
+- Data Warehousing
+- Dimensional Modeling
+
+</td>
+<td width="33%" valign="top">
+
+**03 / Development & Analytics**
+
+- Data Visualization
+- Streamlit
+- Power BI
+- SQL Server
+- Web Fundamentals
+
+</td>
+</tr>
+</table>
+
+## TECHNOLOGIES
+
+**Languages**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,sql,html,css,js" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css" alt="Python, C++, C, Java, JavaScript, HTML and CSS" />
 </p>
 
-### Data Science & Machine Learning
+**Machine Learning & Data**
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+<img src="https://img.shields.io/badge/NumPy-171D2B?style=flat-square&logo=numpy&logoColor=7CAEFF" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-171D2B?style=flat-square&logo=pandas&logoColor=C4A7FF" alt="Pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-171D2B?style=flat-square&logo=scikitlearn&logoColor=F5A623" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/TensorFlow-171D2B?style=flat-square&logo=tensorflow&logoColor=FF9B45" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-171D2B?style=flat-square&logo=keras&logoColor=FF7777" alt="Keras" />
+<img src="https://img.shields.io/badge/Matplotlib-171D2B?style=flat-square&logo=plotly&logoColor=8AB4FF" alt="Matplotlib" />
 </p>
 
-### Data Engineering, Databases & BI
+**Data Platforms & Tools**
+
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+<img src="https://img.shields.io/badge/SQL_Server-171D2B?style=flat-square&logo=microsoftsqlserver&logoColor=E57373" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Azure-171D2B?style=flat-square&logo=microsoftazure&logoColor=64B5F6" alt="Azure" />
+<img src="https://img.shields.io/badge/Power_BI-171D2B?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+<img src="https://img.shields.io/badge/Streamlit-171D2B?style=flat-square&logo=streamlit&logoColor=FF8585" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Git-171D2B?style=flat-square&logo=git&logoColor=F28B66" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-171D2B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux" alt="Developer tools" />
-</p>
+---
 
-## Experience
+## SELECTED WORK
 
-**AI & Machine Learning Trainee — Route Academy**  
-*July 2026 – Present*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Developing foundations in supervised and unsupervised Machine Learning.
-- Practicing model evaluation, Artificial Neural Networks, CNNs, and computer vision.
+### Student Churn Analytics Data Warehouse
 
-**Data Engineer Trainee — Digital Egypt Pioneers Initiative (DEPI)**  
-*November 2025 – July 2026*
+An end-to-end Data Engineering project using OULAD. Built a cleaning and ETL workflow, a SQL Server dimensional warehouse, analytical views, and a Power BI dashboard to explore student engagement and churn risk.
 
-- Studied SQL, Python-based data processing, and data pipeline concepts.
-- Worked with data warehousing, dimensional modeling, and analytics workflows.
-- Explored cloud and data engineering technologies within the Microsoft data engineering track.
+**Stack:** Python · Pandas · SQL Server · Power BI
 
-## Featured Projects
+[VIEW REPOSITORY →](https://github.com/hamzaaaa-12/Student-Churn-Analysis)
 
-### 1. Student Churn Analysis
-A data engineering project built around the Open University Learning Analytics Dataset (OULAD). The system uses a medallion-style pipeline, a dimensional data warehouse, and rules-based scoring to identify students who may be at risk of dropping out.
+</td>
+<td width="50%" valign="top">
 
-**Tools:** Python · Pandas · SQL Server · SQLAlchemy · Streamlit · Power BI
+### CNN Vegetable Image Classification
 
-[View Repository](https://github.com/hamzaaaa-12/Student-Churn-Analysis)
+A computer vision project using a Convolutional Neural Network built from scratch to classify images across 15 vegetable categories.
 
-### 2. Vegetable Image Classification
-A Deep Learning project that classifies vegetable images into 15 categories using a Convolutional Neural Network (CNN) built from scratch.
+**Stack:** Python · TensorFlow · Keras · CNN
 
-**Tools:** Python · TensorFlow · Keras · CNN · Computer Vision
+[VIEW PROJECT DETAILS →](https://github.com/hamzaaaa-12/MyPortfolio)
 
-[View Portfolio Repository](https://github.com/hamzaaaa-12/MyPortfolio)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 3. Machine Learning — Dry Bean Classification
-An ensemble learning project using the Dry Bean dataset to compare tree-based and ensemble classification approaches, including hyperparameter tuning.
+### Dry Bean Classification
 
-**Tools:** Python · Pandas · Scikit-learn · XGBoost · GridSearchCV
+An ensemble learning project comparing tree-based and ensemble classification methods, with hyperparameter tuning using GridSearchCV.
 
-[Explore My GitHub Repositories](https://github.com/hamzaaaa-12?tab=repositories)
+**Stack:** Python · Pandas · Scikit-learn · XGBoost
 
-## Currently Learning
+[VIEW PROJECT DETAILS →](https://github.com/hamzaaaa-12/MyPortfolio)
 
-- Deep Learning and Computer Vision
-- Machine Learning model evaluation and optimization
-- Data Engineering concepts and pipeline development
-- Cloud technologies and modern data platforms
+</td>
+<td width="50%" valign="top">
 
-## GitHub Activity
+### Text Emotion Detector
+
+A Flask web application that uses IBM Watson NLP to identify five emotions in text and return the dominant emotion. Includes unit tests and input error handling.
+
+**Stack:** Python · Flask · JavaScript · Watson NLP
+
+[VIEW REPOSITORY →](https://github.com/hamzaaaa-12/IBM_projrct)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzaaaa-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaaa-12&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=hamzaaaa-12&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+[MORE ABOUT MY WORK — PORTFOLIO](https://github.com/hamzaaaa-12/MyPortfolio)
+
 </div>
 
-## Let's Connect
+---
 
-I'm always interested in connecting with people who enjoy working on **AI, Machine Learning, Data Science, and Data Engineering**.
+## EXPERIENCE
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamzaaibrahiim">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:hamzaaaa12007@gmail.com">Email</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/hamzaaaa-12">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/hamzaaaa-12/MyPortfolio">Portfolio</a>
-</p>
+**AI & Machine Learning Trainee** · Route Academy  
+*July 2026 – Present*
+
+Learning and applying supervised and unsupervised Machine Learning, model evaluation, Artificial Neural Networks, CNNs, and Computer Vision.
+
+**Data Engineer Trainee** · Digital Egypt Pioneers Initiative (DEPI)  
+*November 2025 – July 2026*
+
+Developed practical foundations in SQL, Python data processing, ETL, data warehousing, dimensional modeling, and Microsoft data engineering technologies.
+
+## EDUCATION
+
+**B.Sc. in Computer Science and Artificial Intelligence**  
+Helwan University · 2024–2028
+
+---
+
+## GITHUB
 
 <div align="center">
-  <sub>Thanks for visiting my profile.</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzaaaa-12&show_icons=true&hide_title=true&hide_border=true&bg_color=0B1020&title_color=8AB4FF&text_color=C8D2E4&icon_color=C4A7FF" alt="GitHub activity statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaaa-12&layout=compact&hide_border=true&bg_color=0B1020&title_color=8AB4FF&text_color=C8D2E4" alt="Most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**OPEN TO LEARNING, BUILDING, AND COLLABORATING.**
+
+<a href="https://www.linkedin.com/in/hamzaaibrahiim">LINKEDIN</a>
+&nbsp; / &nbsp;
+<a href="mailto:hamzaaaa12007@gmail.com">EMAIL</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/hamzaaaa-12">GITHUB</a>
+
+<sub>Thanks for stopping by.</sub>
+
 </div>
