@@ -8,7 +8,7 @@
 &nbsp;
 <a href="mailto:hamzaaaa12007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1020?style=flat-square&logo=gmail&logoColor=FF8A8A" alt="Email" /></a>
 &nbsp;
-<a href="https://github.com/hamzaaaa-12/MyPortfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=flat-square&logo=googlechrome&logoColor=C4A7FF" alt="Portfolio" /></a>
+<a href="https://hamzaaaa-12.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=flat-square&logo=googlechrome&logoColor=C4A7FF" alt="Portfolio" /></a>
 
 </div>
 
@@ -119,7 +119,7 @@ A computer vision project using a Convolutional Neural Network built from scratc
 
 **Stack:** Python · TensorFlow · Keras · CNN
 
-[VIEW PROJECT DETAILS →](https://github.com/hamzaaaa-12/MyPortfolio)
+[VIEW PROJECT DETAILS →](https://hamzaaaa-12.github.io/MyPortfolio/)
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ An ensemble learning project comparing tree-based and ensemble classification me
 
 **Stack:** Python · Pandas · Scikit-learn · XGBoost
 
-[VIEW PROJECT DETAILS →](https://github.com/hamzaaaa-12/MyPortfolio)
+[VIEW PROJECT DETAILS →](https://hamzaaaa-12.github.io/MyPortfolio/)
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +151,7 @@ A Flask web application that uses IBM Watson NLP to identify five emotions in te
 
 <div align="center">
 
-[MORE ABOUT MY WORK — PORTFOLIO](https://github.com/hamzaaaa-12/MyPortfolio)
+[MORE ABOUT MY WORK — PORTFOLIO](https://hamzaaaa-12.github.io/MyPortfolio/)
 
 </div>
 
