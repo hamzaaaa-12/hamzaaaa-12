@@ -92,7 +92,7 @@ A Deep Learning project that classifies vegetable images into 15 categories usin
 
 **Tools:** Python · TensorFlow · Keras · CNN · Computer Vision
 
-[View Portfolio](https://github.com/hamzaaaa-12/MyPortfolio)
+[View Portfolio Repository](https://github.com/hamzaaaa-12/MyPortfolio)
 
 ### 3. Machine Learning — Dry Bean Classification
 An ensemble learning project using the Dry Bean dataset to compare tree-based and ensemble classification approaches, including hyperparameter tuning.
